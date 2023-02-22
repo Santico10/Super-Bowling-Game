@@ -1,2 +1,8 @@
 github no almacena proyectos más grandes de 100 MB es por eso que subí el ejecutable del
 juego a este link de drive: https://drive.google.com/file/d/1tkFz6keMYKDsLS86t15yJWWWzroFxpYH/view?usp=sharing
+
+Instrucciones:
+
+Espacio: Darle potencia al lanzado de la bola
+Escape: Menú principal y Reinicio de juego
+
